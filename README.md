@@ -1,4 +1,4 @@
-# 🧠 OnArc — Agentic Freelance Marketplace Powered by Arc
+# 🧠 OnArc — Agentic Freelance Marketplace Powered by Arc Network 
 
 > Hire globally. Pay instantly. No trust required.
 
