@@ -7,7 +7,7 @@
 ## Preview
 
 <!-- Replace the path below with your image -->
-![OnArc Landing Page](./assets/landing-page.png)
+![OnArc Landing Page](/OnArc_landing_page.jpg)
 
 ---
 
