@@ -4,14 +4,14 @@
 
 ---
 
-## 📸 Preview
+## Preview
 
 <!-- Replace the path below with your image -->
 ![OnArc Landing Page](./assets/landing-page.png)
 
 ---
 
-## 🚀 Overview
+## Overview
 
 OnArc is an **agentic freelance marketplace** built on Arc, designed to enable seamless global work and instant payments.
 
@@ -21,7 +21,7 @@ The result is a faster, more reliable way to coordinate and settle work — with
 
 ---
 
-## 🧩 Problem
+## Problem
 
 Traditional freelance platforms suffer from:
 
@@ -32,7 +32,7 @@ Traditional freelance platforms suffer from:
 
 ---
 
-## 💡 Solution
+## Solution
 
 OnArc combines:
 
@@ -43,7 +43,7 @@ OnArc combines:
 
 ---
 
-## 🏗️ MVP Scope
+## MVP Scope
 
 This MVP focuses on the **core flow of agentic hiring and settlement**.
 
@@ -126,7 +126,7 @@ Once a freelancer is selected:
 
 ---
 
-### 🔗 Interaction Flow
+### Interaction Flow
 
 User Intent → Agent Matching → Freelancer Selection  
 → Escrow Contract → Work Submission → Payment Settlement
@@ -162,9 +162,9 @@ User Intent → Agent Matching → Freelancer Selection
 
 ---
 
-## 📌 Why Arc?
+## 📌 Why Arc Network?
 
-OnArc is built on Arc because it provides:
+OnArc is built on Arc Network because it provides:
 
 - Deterministic finality (instant, irreversible settlement)  
 - Stablecoin-native execution  
@@ -173,7 +173,7 @@ OnArc is built on Arc because it provides:
 
 ---
 
-## 🎯 Use Cases
+## Use Case's 
 
 - Freelance hiring and payments  
 - Cross-border remote work  
@@ -182,7 +182,7 @@ OnArc is built on Arc because it provides:
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 - Advanced agent negotiation  
 - Reputation and credit scoring  
@@ -192,18 +192,10 @@ OnArc is built on Arc because it provides:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 OnArc demonstrates how **agentic systems + programmable money** can redefine how work is coordinated and paid for.
 
 By combining AI-driven matching with Arc’s real-time settlement, OnArc removes friction, reduces risk, and enables truly global collaboration.
 
----
 
-## 📎 Getting Started
-
-```bash
-git clone https://github.com/your-username/onarc
-cd onarc
-npm install
-npm run dev
